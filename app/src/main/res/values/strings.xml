@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="tvLoanAmount">Loan Amount</string>
+    <string name="etLoanAmount">Loan</string>
+    <string name="tvLoanTerm">Loan Term</string>
+    <string name="etLoanTerm">Years</string>
+    <string name="tvYearlyRate">Yearly Interest Rate</string>
+    <string name="etYearlyRate">Interest</string>
+    <string name="btCalculate">Calculate</string>
+    <string name="btClear">Clear</string>
+    <string name="result">Results</string>
+    <string name="tvMonthlyPay">Monthly Payment</string>
+    <string name="tvTotalPay">Total Payment</string>
+    <string name="tvTotalInterest">Total Interest</string>
+    <string name="zero">0</string>
+
+</resources>
